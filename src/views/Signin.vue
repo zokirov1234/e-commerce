@@ -33,7 +33,7 @@
               />
             </div>
             <small class="form-text text-muted"
-            >By continuing, you agree to Simplecoding's Conditions of Use and
+            >By continuing, you agree to Company's Conditions of Use and
               Privacy Notice.</small
             >
             <button type="submit" class="btn btn-primary mt-2 py-0">
@@ -49,13 +49,13 @@
           </form>
           <hr />
           <small class="form-text text-muted pt-2 pl-4 text-center"
-          >New to Simplecoding?</small
+          >New to Website?</small
           >
           <p class="text-center">
             <router-link
                 :to="{ name: 'Signup' }"
                 class="btn btn-dark text-center mx-auto px-5 py-1 mb-2"
-            >Create Your Simplecoding Account</router-link
+            >Create Your Account</router-link
             >
           </p>
         </div>

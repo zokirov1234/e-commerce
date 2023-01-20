@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-12 text-center pt-3">
         <router-link :to="{ name: 'home' }">
-          <img id="logo" src="../assets/icon.png"  alt="man"/>
+          <img id="logo" src="../assets/icon.png" alt="man"/>
         </router-link>
       </div>
     </div>

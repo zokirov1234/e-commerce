@@ -76,7 +76,7 @@ export default {
 }
 
 #background-div {
-  background: url(../assets/a.jpg)
+  background: url(../assets/a.png);
 }
 
 #heading {
